@@ -5,4 +5,4 @@ import org.springframework.data.jpa.repository.JpaRepository;
 public interface PersonRepository  extends JpaRepository<Person,Integer>{
     
 }
-© 2022 Git
+© 2022 GitHub, In
